@@ -78,7 +78,7 @@ for filename in os.listdir(folder_path):
             }
         ],
         "template": {},
-        "spj": "null",
+        "spj": None,
         "rule_type": "ACM",
         "source": "来源",
         "answers": []
